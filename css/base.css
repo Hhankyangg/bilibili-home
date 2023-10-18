@@ -17,3 +17,8 @@ body {
   background-color: #66CCFF;
   font-size: 14px;
 }
+
+input {
+  border: none;
+  outline-style: none;
+}
